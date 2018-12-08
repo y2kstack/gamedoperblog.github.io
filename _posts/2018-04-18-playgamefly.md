@@ -14,7 +14,7 @@ Gamefly is really good game play at a ur best at this minima
 </div>
 <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
       <div class="portfolio-modal-dialog bg-white">
-       
+       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
           <i class="fa fa-3x fa-times"></i>
         </a>
         <div class="container text-center">
