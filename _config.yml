@@ -48,6 +48,9 @@ user_description_short: |
 
 
 ## Disqus
+layout: default
+comments: true
+# other options
 disqus_identifier: Jaiprince17
 
 ## Tracker
