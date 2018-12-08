@@ -10,7 +10,7 @@ Gamefly is really good game play at a ur best at this minima
 <img class="img-fluid" src="assets/img/aircraft.jpg" alt="">
 
 <div style="text-align: center;">
-{% include captioned-image.html url="aircraft.jpg" description="Gamefly" style="height: 400px;" %}
+#{% include captioned-image.html url="aircraft.jpg" description="Gamefly" style="height: 400px;" %}
 </div>
 <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
       <div class="portfolio-modal-dialog bg-white">
