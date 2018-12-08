@@ -1,11 +1,11 @@
 ---
 layout: post
-title: AIRCRAFT 
+title: PLAY AIRCRAFT 
 date: 2018-04-18 00:00:00 -0000
 tags: [playgames]
 image: Untitled.png
 ---
-<img class="img-fluid" src="assets/img/Untitled.png" alt="">
+
 <div style="text-align: center;">
 </div>
 <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
