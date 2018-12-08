@@ -5,12 +5,8 @@ date: 2018-04-18 00:00:00 -0000
 tags: [playgames]
 image: Untitled.png
 ---
-Gamefly is really good game play at your best at this minima
-
 <img class="img-fluid" src="assets/img/Untitled.png" alt="">
-
 <div style="text-align: center;">
-
 </div>
 <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
       <div class="portfolio-modal-dialog bg-white">
