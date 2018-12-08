@@ -3,11 +3,11 @@ layout: post
 title: Gamefly
 date: 2018-04-18 00:00:00 -0000
 tags: [playgames]
-image: 
+image: untitled.png
 ---
-Gamefly is really good game play at a ur best at this minima
+Gamefly is really good game play at your best at this minima
 
-<img class="img-fluid" src="assets/img/aircraft.jpg" alt="">
+<img class="img-fluid" src="assets/img/untitled.png" alt="">
 
 <div style="text-align: center;">
 #{% include captioned-image.html url="aircraft.jpg" description="Gamefly" style="height: 400px;" %}
