@@ -3,7 +3,7 @@ layout: post
 title: Gamefly
 date: 2018-04-18 00:00:00 -0000
 tags: [playgames]
-image: aircraft.jpg
+image: 
 ---
 Gamefly is really good game play at a ur best at this minima
 
@@ -14,7 +14,7 @@ Gamefly is really good game play at a ur best at this minima
 </div>
 <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
       <div class="portfolio-modal-dialog bg-white">
-        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+       
           <i class="fa fa-3x fa-times"></i>
         </a>
         <div class="container text-center">
@@ -24,11 +24,11 @@ Gamefly is really good game play at a ur best at this minima
               <hr class="star-dark mb-5">
               <img class="img-fluid mb-5" src="img/portfolio/aircraft.jpg" alt="">
               <p class="mb-5">bonjour</p>
-              <a href="gamedoper.github.io/gamefly/index.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">PLAY</a>
+              <a href="/gamefly/index.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">PLAY</a>
             </div>
           </div>
         </div>
       </div>
     </div>
-Play when u are Free :)
+
 
