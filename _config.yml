@@ -1,0 +1,71 @@
+# Site settings
+title: Game Doper
+description: |
+  Game doper is Site to Resolve Gaming errors and Fixes | we do run html games | 
+  writing review about games | Info About Anime Spoilers etc
+
+url: http://gamedoper.com
+
+about_title: About
+projects_title: Home
+areyou_bored: bored
+
+# User settings
+user_description_appendix: |
+  I created this site to write about my interests: startups and entrepreneurship, design, 
+  programming, AR/VR, and machine learning. I like to use computers to solve problems.
+
+  I built this site in [Jekyll][jekyll], and it's hosted for free on [GitHub Pages][gh-pages]. It's open source, so if
+  you like it, feel free to fork it on [GitHub][github] and make your own version.
+
+  [github]: https://github.com/lrassaby/lrassaby.github.io
+  [gh-pages]: https://pages.github.com/
+  [jekyll]: https://jekyllrb.com
+
+
+email: gamedoperblog@gmail.com
+linkedin: jaiprince17
+github: gamedoper
+
+
+relevant_tags: ['projects', 'music', 'tech-blog','gaming','Anime','Game fix', 'Game error Fix']
+
+resume_url: #https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
+music_resume_url: #https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf
+
+author: Game doper
+author_title: Game Developer
+author_photo: profile-photo.jpg
+user_description_short: |
+  Im Just a gamer trying to find a path in Game Development :D
+
+  [scala]: https://www.scala-lang.org/
+  [couple]: https://wirefreight.com/
+  [cellolele]: /cellolele-toxic/
+  [wirefreight]: http://wirefreight.com/
+  [ppp]: http://postpartumproject.com/
+  [versace]: /versace-eyewear
+
+
+## Disqus
+disqus_identifier: Jaiprince17
+
+## Tracker
+google_analytics_id: UA-128890200-1
+
+keywords: 'gamedoper,gaming,anime,mafia2,Gameerror,jaiprince17,ijayaprakash,gamedoperblogr'
+
+## URLs
+permalink: ':title/'
+
+baseurl: ''
+projects_url: '/'
+about_url: '/about'
+
+
+plugins:
+  - jekyll-feed
+
+
+include: [_pages]
+exclude: ['package.json', 'src' , 'node_modules', 'Gemfile', 'LICENSE', 'gulpfile.js', 'README.md']
