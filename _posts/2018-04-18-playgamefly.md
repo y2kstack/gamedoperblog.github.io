@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Gamefly
+title: AIRCRAFT 
 date: 2018-04-18 00:00:00 -0000
 tags: [playgames]
-image: untitled.png
+image: Untitled.png
 ---
 Gamefly is really good game play at your best at this minima
 
-<img class="img-fluid" src="assets/img/untitled.png" alt="">
+<img class="img-fluid" src="assets/img/Untitled.png" alt="">
 
 <div style="text-align: center;">
 
@@ -17,7 +17,7 @@ Gamefly is really good game play at your best at this minima
       <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">AIRCRAFT 3D</h2>
+              <h2 class="text-secondary text-uppercase mb-0">AIRCRAFT GAME</h2>
               <hr class="star-dark mb-5">
              <p class="mb-5">bonjour</p>
               <a href="/gamefly/index.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">PLAY</a>
