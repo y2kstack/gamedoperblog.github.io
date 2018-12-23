@@ -2,7 +2,7 @@
 layout: post
 title: Visual Basic Piano (vb6.0)
 date: 2018-02-18 
-tags: [projects, tech]
+tags: [projects,tech-blog]
 image: ppp-landing.jpg
 
 
