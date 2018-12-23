@@ -11,7 +11,7 @@ ERROR TEST CONNECTION FAILED BECAUSE OF AN ERROR IN INITIALIZING PROVIDER.
 
 #visualbasic6.0 #vb6.0 #oracle #database #connectivity
 
-<iframe width="320" height="315" src="https://www.youtube.com/embed/fqH--tgN5Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="520eight="315" src="https://www.youtube.com/embed/fqH--tgN5Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
