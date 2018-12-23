@@ -2,7 +2,7 @@
 layout: post
 title: Simple web browser visual basic 6.0
 date: 2014-02-20 13:35:00 -0400
-tags: [projects]
+tags: [tech-blog,projects]
 image: webbrwoser.jpg
 
 ---
