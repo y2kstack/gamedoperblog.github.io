@@ -2,7 +2,7 @@
 layout: post
 title: ADODC Connection in visual basic 6.0 with oracle database windows 10 | VISUAL BASIC 6.0
 date: 2010-05-19 00:00:00 -0000
-tags: [Mafia2, Language]
+tags: [tech,oracle,windows10]
 image: adodc1.png
 type: video
 ---
