@@ -9,9 +9,9 @@ type: video
 ERROR TEST CONNECTION FAILED BECAUSE OF AN ERROR IN INITIALIZING PROVIDER.
 [Microsoft][ODBC driver for Oracle Connected Not Open ]
 
-#visualbasic6.0 #vb6.0 #oracle #database #connectivity
 
-<iframe width="520eight="315" src="https://www.youtube.com/embed/fqH--tgN5Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqH--tgN5Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=1Bf0h...
 
 SUBSCRIBE FOR MORE VIDEO THANK YOU HOPE THIS VIDEO WAS HELPFULL
 
-
+#visualbasic6.0 #vb6.0 #oracle #database #connectivity
 
 
 
