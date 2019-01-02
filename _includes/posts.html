@@ -20,6 +20,7 @@
                             {% endif %}
                         </div>
                         <div class="card-body">
+                            {% include advertising.html %}
                             <h4 class="card-title">
                                 <a href="{{post.url | prepend: site.baseurl}}"> {{ post.title }} </a>
                             </h4>
