@@ -15,9 +15,11 @@ layout: default
         <div class="wrapper">
             <div class="page-content">
                 <div class="header-page">
+                    {% include advertising.html %}
                     <h1 class="page-title">{{page.title}}</h1>
                     <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%b %d, %Y'}}</time></div>
                     <div class="page-links">
+                        
                     {% if page.github %}
                     <a class="btn btn-secondary" href="{{page.github}}" target="_blank">GitHub</a>
                     {% endif %}
