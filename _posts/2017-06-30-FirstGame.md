@@ -2,12 +2,12 @@
 layout: post
 title: First Game :) 
 date: 2017-06-30 
-tags: blog    
+tags: playgames  
 ---
 
 
 
-<html>
+
 	<head>
 		<title>Save Goku</title>
 		
@@ -164,6 +164,5 @@ function accelerate(n) {
 <p>Click to Accelerate up :) </p>
 <input type="button" value="New Game" onClick="window.location.reload()">
 
-</body>
-</html>
+
 
