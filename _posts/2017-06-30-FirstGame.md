@@ -2,15 +2,15 @@
 layout: post
 title: First Game :) 
 date: 2017-06-30 
-tags: playgames  
+image:1.jpg
+type:video
+
 ---
 
 
 
 
-	<head>
-		<title>Save Goku</title>
-		
+	
 </head>
 
 
