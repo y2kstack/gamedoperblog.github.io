@@ -70,7 +70,10 @@ function validation(Form_obj)
 
 
 ```
-JSP FILE
+JSP FILE 
+
+NOTE : CHANGE CRYPTO PC TO YOUR BELOVED HOSTNAME (MINE WAS CRYPTO-PC ) CHANGE TO YOURS
+THIS LINE ["jdbc:oracle:thin:@HOSTNAME:1521:XE","USERNAME","PASSWORD" ]
 
 ```
 <%@page language="java" import="java.sql.*"%>
