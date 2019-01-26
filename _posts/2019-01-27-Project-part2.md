@@ -254,20 +254,20 @@ String selectquery = "select * from register where email='" + email + "' and psw
 JOConnection.rslt = JOConnection.stmt.executeQuery(selectquery);
 if (JOConnection.rslt.next()) {
 %>
-# <script>
+```
+```
+script start
 alert("Record Found");
-//window.location.href="http://localhost:8084/WebApplication9/index2.html";
+window.location.href="http://localhost:8084/WebApplication9/index2.html";
 </script>
 <%} else {%>
 <script>
 alert("No Record Found, Try again");
-//window.location.href="http://localhost:8084/WebApplication9/signup.html";
-</script>
-<%}%> #
+window.location.href="http://localhost:8084/WebApplication9/signup.html";
+script end
+<%}%>
 
-
-
-
+```
 ```
 
 
