@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NETBEANS OJDBC CONNECTION 
-date: 2014-02-20 13:35:00 -0400
+date: 2019-01-23 13:35:00 -0400
 tags: [tech-blog,projects]
 image: ppp-landing.jpg
 
