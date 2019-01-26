@@ -235,13 +235,9 @@ window.onclick = function(event) {
 
 
 ```
-LOGIN JSP FILE
+LOGIN JSP FILE LINK
 
-
-
-```
-
-```
+https://raw.githubusercontent.com/Gamedoper/gamedoperblog.github.io/master/login.jsp.txt
 
 
 It's best viewed on desktop rather than mobile, and can be accessed [here]
