@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netbeans Project Login Page Part2
+title: 2019-01-26-Project-part2-Loginpage.md
 date: 2019-01-26 13:58:00 -0400
 tags: [tech-blog,projects]
 image: Discount2.jpg
