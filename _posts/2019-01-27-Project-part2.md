@@ -241,30 +241,7 @@ NOTE : CHANGE CRYPTO PC TO YOUR BELOVED HOSTNAME (MINE WAS CRYPTO-PC ) CHANGE TO
 THIS LINE ["jdbc:oracle:thin:@HOSTNAME:1521:XE","USERNAME","PASSWORD" ]
 
 ```
-<%@page import="DBConnect.JOConnection"%>
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ page import="java.sql.*" %>
-<%@ page import="java.io.*" %>
-<%@ page import="java.util.*"%>
-<!DOCTYPE html>
-<%
-String email = request.getParameter("email");
-String pswd = request.getParameter("pswd");
-JOConnection.JConnect();
-String selectquery = "select * from register where email='" + email + "' and pswd='" + pswd + "'";
-JOConnection.rslt = JOConnection.stmt.executeQuery(selectquery);
-if (JOConnection.rslt.next()) {
-%>
-<script>
-alert("Record Found");
-window.location.href="http://localhost:8084/WebApplication9/index2.html";
-</script>
-<%} else {%>
-<script>
-alert("No Record Found, Try again");
-window.location.href="http://localhost:8084/WebApplication9/signup.html";
-</script>
-<%}%>
+
 
 
 
