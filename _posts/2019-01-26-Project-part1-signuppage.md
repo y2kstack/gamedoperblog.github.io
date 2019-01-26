@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NETBEANS PROJECT PART1 SIGNUP PAGE 
+title: Netbeans Project Signup Page code with Jsp
 date: 2019-01-26 13:58:00 -0400
 tags: [tech-blog,projects]
 image: Discount.jpg
@@ -202,7 +202,7 @@ String addr=request.getParameter("addr");
 String email=request.getParameter("email");
 String mobno=request.getParameter("mobno");
 stmt.executeUpdate("insert into register values('"+fname+"','"+uname+"','"+pswd+"','"+addr+"','"+email+"','"+mobno+"')");
-response.sendRedirect("http://localhost:8084/smarthealth/Signin/signin.html");
+response.sendRedirect("login.html");
 con.close();
 stmt.close();
 }
