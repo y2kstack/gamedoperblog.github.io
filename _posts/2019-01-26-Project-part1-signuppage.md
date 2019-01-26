@@ -15,6 +15,7 @@ Source code []
 
 HTML FILE
 ```
+
 <!DOCTYPE html>
 <html>
 <style>
@@ -139,7 +140,7 @@ hr {
 
 <div>
   
-  <form class="modal-content" action="/action_page.php">
+  <form class="modal-content" action="signup.jsp">
     <div class="container">
       <h1>Sign Up</h1>
       <p>Please fill in this form to create an account.</p>
@@ -159,8 +160,8 @@ hr {
       <input type="text" placeholder="Enter Email" name="email" required>
 
 
-      <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
+      <label for="mobno"><b>mobile no</b></label>
+      <input type="text" placeholder="mobile no" name="mobno" required>
 
     
       
@@ -183,6 +184,9 @@ hr {
 
 </body>
 </html>
+
+
+
 ```
 JSP FILE 
 
@@ -197,15 +201,15 @@ try
 {
 ResultSet rs =null;
 Class.forName("oracle.jdbc.driver.OracleDriver");
-Connection con=    DriverManager.getConnection("jdbc:oracle:thin:@Lab3-5:1521:XE","panda","piggy");
+Connection con=    DriverManager.getConnection("jdbc:oracle:thin:@Crypto-pc:1521:XE","panda","piggy");
 Statement stmt=con.createStatement();
 String fname=request.getParameter("fname");
-String uname=request.getParameter("uname");
+String lname=request.getParameter("lname");
 String pswd=request.getParameter("pswd");
 String addr=request.getParameter("addr");
 String email=request.getParameter("email");
 String mobno=request.getParameter("mobno");
-stmt.executeUpdate("insert into register values('"+fname+"','"+uname+"','"+pswd+"','"+addr+"','"+email+"','"+mobno+"')");
+stmt.executeUpdate("insert into register values('"+fname+"','"+lname+"','"+pswd+"','"+addr+"','"+email+"','"+mobno+"')");
 response.sendRedirect("login.html");
 con.close();
 stmt.close();
@@ -214,6 +218,8 @@ catch(ClassNotFoundException e)
 {
 out.println(e.getMessage());
 } %>
+
+
 
 
 ```
