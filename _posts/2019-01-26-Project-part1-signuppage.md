@@ -3,7 +3,7 @@ layout: post
 title: NETBEANS PROJECT PART1 SIGNUP PAGE 
 date: 2019-01-26 13:58:00 -0400
 tags: [tech-blog,projects]
-image: part_1.jpg
+image: part 1.jpg
 
 ---
 NETBEANS OJDBC CONNECTION | ORACLE |
