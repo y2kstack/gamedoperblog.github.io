@@ -154,7 +154,10 @@ hr {
 
       <label for="pswd"><b>Enter password</b></label>
       <input type="Password" placeholder="Enter password" name="pswd" required>
-
+      
+       <label for="addr"><b>Enter address</b></label>
+      <input type="text" placeholder="Enter Address" name="addr" required>
+      
 
       <label for="email"><b>Enter Email</b></label>
       <input type="text" placeholder="Enter Email" name="email" required>
