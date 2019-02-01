@@ -1,7 +1,7 @@
 ---
 layout: post
 title: download Register and Login templates 
-date: 2018-02-18 
+date: 2019-02-01 
 tags: [projects,tech-blog]
 image: ppp-landing.jpg
 
@@ -10,5 +10,9 @@ image: ppp-landing.jpg
 download files here
 
 
-<a href="https://www.mediafire.com/file/q44hrp3375byzxd/iofrmtemplates.rar/file">DOWNLOAD</a>
+note skip add and you will be redirected to download page ........
+
+
+<a href="http://swarife.com/7CEZ"><font size="6">Download</font></a>
+
 
