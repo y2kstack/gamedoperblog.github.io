@@ -1,14 +1,14 @@
-
 ---
 layout: post
 title: RIP GOOGLE PLUS 
-date: 2019-02-1
+date: 2019-02-01 13:58:00 -0400
 tags: [tech-blog]
 image: rip-google-plus1.jpg
-type: post
+
 ---
 
 
+###
 In December 2018, we announced our decision to shut down Google+ for consumers in April 2019 due to low usage and challenges involved in maintaining a successful product that meets consumers' expectations. We want to thank you for being part of Google+ and provide next steps, including how to download your photos and other content.
 
 On April 2nd, your Google+ account and any Google+ pages you created will be shut down and we will begin deleting content from consumer Google+ accounts. Photos and videos from Google+ in your Album Archive and your Google+ pages will also be deleted. You can download and save your content, just make sure to do so before April. Note that photos and videos backed up in Google Photos will not be deleted.
@@ -31,6 +31,6 @@ If you're a developer using Google+ APIs or Google+ Sign-in, click here to see h
 
 From all of us on the Google+ team, thank you for making Google+ such a special place. We are grateful for the talented group of artists, community builders, and thought leaders who made Google+ their home. It would not have been the same without your passion and dedication.
 
-Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 ###
 
-You have received this mandatory email service announcement to update you about important changes to your Google+ Page, product or account.
+
