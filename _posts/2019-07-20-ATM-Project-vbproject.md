@@ -8,7 +8,7 @@ image: QWERTY.png
 ---
 
 
-# Welcome to Gamedoper!
+
 
 
 
