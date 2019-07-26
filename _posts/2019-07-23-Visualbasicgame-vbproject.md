@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: post
 title: Visual Basic 6.0 Game
 date: 2019-07-23
