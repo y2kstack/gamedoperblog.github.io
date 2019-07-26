@@ -23,8 +23,10 @@ once u run the project file in the rar
  -  this project is based on some vending machine
  - code is easy if u follow the video
  - if your lazy buy the project 
- - 
-after the payment you will be redirected to a download link ............. you can download the porject :P
+
+
+
+##after the payment you will be redirected to a download link ............. you can download the PROJECT :P
 
 ## Go buy it 
 
