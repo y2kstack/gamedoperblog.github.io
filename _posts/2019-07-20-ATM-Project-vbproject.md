@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Buy ATM machine visual basic (6.0) Project
 date: 2019-07-20 
