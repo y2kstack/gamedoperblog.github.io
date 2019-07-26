@@ -24,7 +24,7 @@ once u run the project file in the rar
  - code is easy if u follow the video
  - if your lazy buy the project 
  - 
-
+after the payment you will be redirected to a download link ............. you can download the porject :P
 
 ## Go buy it 
 
