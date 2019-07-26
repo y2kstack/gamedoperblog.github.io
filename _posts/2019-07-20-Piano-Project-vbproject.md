@@ -23,6 +23,9 @@ once u run the project file in the rar
 username : admin
 password : password
 
+
+after the payment you will be redirected to a download link ............. you can download the porject :P
+
 ## Go buy it 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
