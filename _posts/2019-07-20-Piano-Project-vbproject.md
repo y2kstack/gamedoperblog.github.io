@@ -24,7 +24,7 @@ username : admin
 password : password
 
 
-after the payment you will be redirected to a download link ............. you can download the porject :P
+after the payment you will be redirected to a download link ............. you can download the PROJECT :P
 
 ## Go buy it 
 
