@@ -27,6 +27,9 @@ once u run the project file in the rar
  - if you can create ms access thats fine 
  - thank you
 
+
+##after the payment you will be redirected to a download link ............. you can download the PROJECT :P
+
 ## Go buy it 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
