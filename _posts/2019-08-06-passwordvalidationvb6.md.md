@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: Visual Basic 6.0 Game
+title: VB6.0 Password Validation
 date: 2019-08-06
 tags: [projects,tech-blog]
 image: pwd.png
