@@ -16,6 +16,9 @@ image: iconpack.png
 Note : **Please Skip ad and wait for few seconds you will be redirected to the download link ...............**
 ads are placed to get some fund to continue my blog
 
+IF YOUR BLOCKED BY GOVERNMNET USE HTTPS://  -----    LINK -----
+
+
 [DOWNLOAD](http://clesolea.com/2uEp)
 
 Thank you ..............
