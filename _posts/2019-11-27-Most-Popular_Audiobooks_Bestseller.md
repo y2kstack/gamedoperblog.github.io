@@ -20,12 +20,13 @@ image: Audible.jpg
 
 
 
-
 # A Walk to Remember - Nicholas spark
 
-|It was 1958, and Landon had already dated a girl or two. He even swore that he had once been in love. Certainly the last person in town he thought he'd fall for was Jamie Sullivan, the daughter of the town's Baptist minister. A quiet girl who always carried a Bible with her schoolbooks, Jamie seemed content living in a world apart from other teens. She took care of her widowed father, rescued hurt animals, and helped out at the local orphanage. No boy had ever asked her out. Landon never would have dreamed of it. Then a twist of fate made Jamie his partner for the homecoming dance, and Landon Carter's life would never be the same. Being with Jamie would show him the depths of the human heart and lead him to a decision so stunning it would send him irrevocably on the road to manhood.| <iframe style="width:120px;height:240px;"  src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=truthfullveno-21&language=en_IN&marketplace=amazon&region=IN&placement=B079TLTZTH&asins=B079TLTZTH&linkId=bc6941973a83deb45aaa7bded9db7b73&show_border=true&link_opens_in_new_window=true"></iframe> |
+| It was 1958, and Landon had already dated a girl or two. He even swore that he had once been in love. Certainly the last person in town he thought he'd fall for was Jamie Sullivan, the daughter of the town's Baptist minister. A quiet girl who always carried a Bible with her schoolbooks, Jamie seemed content living in a world apart from other teens. She took care of her widowed father, rescued hurt animals, and helped out at the local orphanage. No boy had ever asked her out. Landon never would have dreamed of it. Then a twist of fate made Jamie his partner for the homecoming dance, and Landon Carter's life would never be the same. Being with Jamie would show him the depths of the human heart and lead him to a decision so stunning it would send him irrevocably on the road to manhood.| <a href="https://www.amazon.in/A-Walk-to-Remember/dp/B079TLTZTH/ref=as_li_ss_il?_encoding=UTF8&qid=1574848752&sr=8-3&linkCode=li2&tag=truthfullveno-21&linkId=5da18305fc30c7b756e358fbb7162b71&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079TLTZTH&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li2&o=31&a=B079TLTZTH" width="400" height="5" border="0" alt="" style="border:none !important; margin:0px !important;" />|
 |--|--|
-|  |  |
+| [Link - Audible](https://amzn.to/2rwMRpu) |  |
+
+
 
 
 # 12 Rules For Life - An Antidote to Chaos - Jordan B. Peterson
