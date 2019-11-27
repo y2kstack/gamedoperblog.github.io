@@ -8,7 +8,7 @@ image: Audible.jpg
 ---
 
 
-# Top 6 
+# Listen now Free
 
 # Rich Dad, Poor Dad - Robert T. Kiyosaki
 
@@ -16,7 +16,7 @@ image: Audible.jpg
 
 |Anyone stuck in the rat-race of living paycheck to paycheck, enslaved by the house mortgage and bills, will appreciate this breath of fresh air. Learn about the methods that have created more than a few millionaires. This is the first abridged miniature edition of Rich Dad Poor Dad. The full-length edition has sold millions as a New York Times bestseller. As proven by the runaway success of The Secret and like titles, changing one’s thinking to influence one’s fortune sells big, and forms the basis of rich dad’s advice. Learn to think like a rich dad and let your money work for you!| <a href="https://www.amazon.in/Rich-Dad-Poor-Anniversary-Middle/dp/B07QRWSKG6/ref=as_li_ss_il?_encoding=UTF8&qid=1574845045&sr=8-2&linkCode=li3&tag=truthfullveno-21&linkId=2ed78cc6ad6be1c9218055ca24672502&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QRWSKG6&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li3&o=31&a=B07QRWSKG6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
 |--|--|
-|  |  |
+| [Link - Audible](https://amzn.to/34nMwnG) |  |
 
 # A Walk to Remember - Nicholas spark
 
@@ -48,6 +48,18 @@ For decades, proponents of artificial intelligence have argued that computers wi
 The New York Times best-selling author of Start With Why, Leaders Eat Last and Together Is Better offers a bold new approach to business strategy by asking one question: are you playing the finite game or the infinite game? In The Infinite Game, Sinek applies game theory to explore how great business achieve long-lasting success. He finds that building long-term value and healthy, enduring growth - that playing the infinite game - is the only thing that matters to your business.| <a href="https://www.amazon.in/Infinite-Game-Businesses-Achieve-Long-lasting/dp/B07H9DFC43/ref=as_li_ss_il?_encoding=UTF8&qid=1574850350&sr=8-2&linkCode=li3&tag=truthfullveno-21&linkId=dadcf6ae96bbe6db3582552bfea1d4e1&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07H9DFC43&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li3&o=31&a=B07H9DFC43" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
 |--|--|
 | [Link - Audible](https://amzn.to/37JPapO) |  |
+
+
+
+|       Audio books         |                        |Download                       |
+|----------------|-------------------------------|-----------------------------|
+|Rich Dad, Poor Dad - Robert T. Kiyosaki|  |[Download](https://amzn.to/34nMwnG)     |
+|A Walk to Remember| |[Download](https://amzn.to/2rwMRpu)           |
+| 12 Rules For Life   | |[Download](https://amzn.to/2ryIjil)           |
+|Total Recall | |[Download](https://amzn.to/2XPI12V)            |
+|The Emperor’s New Mind: | |[Download](https://amzn.to/2sm5ahL) |
+|The Infinite Game - Simon Sinek |  |[Download](https://amzn.to/37JPapO)|
+
 
 
 # “It isn’t what you have in your pocket that makes you thankful, but what you have in your heart.” —Anonymous
