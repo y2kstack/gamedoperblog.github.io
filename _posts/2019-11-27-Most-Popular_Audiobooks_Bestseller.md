@@ -8,12 +8,17 @@ image: Audible.jpg
 ---
 
 
+# Top 6 
+
 # Rich Dad, Poor Dad - Robert T. Kiyosaki
 
-| **What the Rich Teach Their Kids About Money–That the Poor and the Middle Class Do Not!** 
-Anyone stuck in the rat-race of living paycheck to paycheck, enslaved by the house mortgage and bills, will appreciate this breath of fresh air. Learn about the methods that have created more than a few millionaires. This is the first abridged miniature edition of Rich Dad Poor Dad. The full-length edition has sold millions as a New York Times bestseller. As proven by the runaway success of The Secret and like titles, changing one’s thinking to influence one’s fortune sells big, and forms the basis of rich dad’s advice. Learn to think like a rich dad and let your money work for you! |  |
+##  What the Rich Teach Their Kids About Money–That the Poor and the Middle Class Do Not
+
+| Anyone stuck in the rat-race of living paycheck to paycheck, enslaved by the house mortgage and bills, will appreciate this breath of fresh air. Learn about the methods that have created more than a few millionaires. This is the first abridged miniature edition of Rich Dad Poor Dad. The full-length edition has sold millions as a New York Times bestseller. As proven by the runaway success of The Secret and like titles, changing one’s thinking to influence one’s fortune sells big, and forms the basis of rich dad’s advice. Learn to think like a rich dad and let your money work for you! | <a href="https://www.amazon.in/Rich-Dad-Poor-Anniversary-Middle/dp/B07QRWSKG6/ref=as_li_ss_il?_encoding=UTF8&qid=1574845045&sr=8-2&linkCode=li3&tag=truthfullveno-21&linkId=918d65c2a226c3b103b195bc9315194b&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QRWSKG6&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li3&o=31&a=B07QRWSKG6" width="400" height="2" border="0" alt="" style="border:none !important; margin:0px !important;" />  [Link - Audible](https://amzn.to/2XPhwug)|
 |--|--|
-| <a href="https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194/ref=as_li_ss_il?keywords=rich+dad+poor+dad&qid=1574845045&sr=8-2&linkCode=li3&tag=truthfullveno-21&linkId=2d6d7df8109b10c8c71b8551a17e69d4&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1612680194&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li3&o=31&a=1612680194" width="500" height="500" border="0" alt="" style="border:none !important; margin:0px !important;" /> | [Link - Audible](https://amzn.to/2XPhwug) |
+
+|  |  |
+
 
 
 
