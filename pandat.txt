@@ -1,1 +1,32 @@
 sushant.rgit1@gmail.com
+Folders to Clean for Adobe Creative Cloud/AAM Cleanup: 
+
+ 
+
+End all the processes for Adobe from Task Manager.
+
+Uninstall Creative Cloud using Cleaner or Add Remove Programs
+
+ 
+
+C:\Program Files (x86)\Common Files\Adobe - Adobe Application Manager, OOBE folder
+
+C:\ProgramData\Adobe - OOBE, AAM Updater Folder
+
+C:\Users\cchawla\AppData\Local\Adobe - OOBE, AAM Updater folder
+
+C:\Users\cchawla\AppData\Roaming\Adobe - OOBE
+
+C:\ProgramData\Adobe - SlStore
+
+C:\Program Files (x86)\Common Files\Adobe - SlCache
+
+ 
+
+Mac:
+
+/library/ApplicationSupport/Adobe - OOBE, Adobe Application Manager
+
+~/library/ApplicationSupport/Adobe - AAMUpdater, OOBE
+
+Utilities: Adobe Application Manager
