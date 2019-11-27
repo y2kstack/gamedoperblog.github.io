@@ -14,10 +14,10 @@ What the Rich Teach Their Kids About Money–That the Poor and the Middle Class 
 
 
 
-| Anyone stuck in the rat-race of living paycheck to paycheck, enslaved by the house mortgage and bills, will appreciate this breath of fresh air. Learn about the methods that have created more than a few millionaires. This is the first abridged miniature edition of Rich Dad Poor Dad. The full-length edition has sold millions as a New York Times bestseller. As proven by the runaway success of The Secret and like titles, changing one’s thinking to influence one’s fortune sells big, and forms the basis of rich dad’s advice. Learn to think like a rich dad and let your money work for you! | <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=truthfullveno-21&language=en_IN&marketplace=amazon&region=IN&placement=B079P5G9PP&asins=B079P5G9PP&linkId=c019b6378a55aeea3f9ce2f67ba4fffe&show_border=true&link_opens_in_new_window=true"></iframe> |
+| Anyone stuck in the rat-race of living paycheck to paycheck, enslaved by the house mortgage and bills, will appreciate this breath of fresh air. Learn about the methods that have created more than a few millionaires. This is the first abridged miniature edition of Rich Dad Poor Dad. The full-length edition has sold millions as a New York Times bestseller. As proven by the runaway success of The Secret and like titles, changing one’s thinking to influence one’s fortune sells big, and forms the basis of rich dad’s advice. Learn to think like a rich dad and let your money work for you! | <a href="https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194/ref=as_li_ss_il?keywords=rich+dad+poor+dad&qid=1574845045&sr=8-2&linkCode=li3&tag=truthfullveno-21&linkId=2d6d7df8109b10c8c71b8551a17e69d4&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1612680194&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=truthfullveno-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=truthfullveno-21&language=en_IN&l=li3&o=31&a=1612680194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  |
 |--|--|
 |  |  |
-|--|--|
+
 
 
 # A Walk to Remember - Nicholas spark
