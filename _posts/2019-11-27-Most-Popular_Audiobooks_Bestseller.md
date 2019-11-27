@@ -65,7 +65,7 @@ image: Audible.jpg
 | [Link - Audible](https://amzn.to/37JPapO) |  |
 | The New York Times best-selling author of Start With Why, Leaders Eat Last and Together Is Better offers a bold new approach to business strategy by asking one question: are you playing the finite game or the infinite game? In The Infinite Game, Sinek applies game theory to explore how great business achieve long-lasting success. He finds that building long-term value and healthy, enduring growth - that playing the infinite game - is the only thing that matters to your business. |
 
-
+------------------------------
 
 |       Audio books         |                        |Download                       |
 |----------------|-------------------------------|-----------------------------|
