@@ -1,4 +1,15 @@
-﻿# How to use regular expressions and extract all email addresses from a text file.
+---
+layout: post
+title: How to use regular expressions and extract all email addresses from a text file.
+date: 2019-12-05
+tags: [tech-blog]
+image: Re.jpg
+
+---
+
+
+
+# How to use regular expressions and extract all email addresses from a text file.
 
 # Basics of Regular expression
 
