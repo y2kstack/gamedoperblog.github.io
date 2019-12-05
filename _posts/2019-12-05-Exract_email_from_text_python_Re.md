@@ -8,9 +8,6 @@ image: Re.jpg
 ---
 
 
-
-
-
 # Basics of Regular expression
 
 **Example : ** Regular expression for an email address :
