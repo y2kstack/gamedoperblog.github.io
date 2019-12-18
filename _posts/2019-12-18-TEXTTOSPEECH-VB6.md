@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TEXT TO SPEECH CONVERTER + SYNTHESIZE THE TEXT TO AUDIO
+title: Visual Basic Text to speech converter + synthesize audio to text
 date: 2019-12-18
 tags: [tech-blog]
 image: he.jpg
@@ -10,13 +10,13 @@ image: he.jpg
 
 
 
-# DLL FILE XVOICE.DLL
+## DLL FILE XVOICE.DLL
 
 [DOWNLOAD](http://bit.ly/2EvQWOg) 
 
 
 
-#  COPY THE CODE HERE
+##  COPY THE CODE HERE
     ''API REFERENCE FROM
     
     Private Declare Function TextOut& Lib "gdi32" Alias "TextOutA" (ByVal ahDc&, ByVal x1&, ByVal y1&, ByVal lpString$, ByVal nCount&)
