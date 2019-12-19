@@ -12,8 +12,8 @@ areyou_bored: bored
 
 # User settings
 user_description_appendix: |
-  I created this site to write about my interests: startups and entrepreneurship, design, 
-  programming, AR/VR, and machine learning. I like to use computers to solve problems.
+  I created this site to write about my interests: design, programming 
+  and machine learning. I like to use computers to solve problems.
 
   I built this site in [Jekyll][jekyll], and it's hosted for free on [GitHub Pages][gh-pages]. 
 
@@ -54,7 +54,7 @@ disqus_identifier: Jaiprince17
 ## Tracker
 google_analytics_id: UA-128890200-1
 
-keywords: 'gamedoper,gaming,anime,mafia2,Gameerror,jaiprince17,ijayaprakash,gamedoperblog,htmlgames,visualbasic6.0,jspodbc'
+keywords: "computer, software, learning, programming, gaming, iPhoneJailbreak, visualbasic, vb "
 
 ## URLs
 permalink: ':title/'
