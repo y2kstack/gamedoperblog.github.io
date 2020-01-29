@@ -8,7 +8,7 @@ image: Re.jpg
 ---
 
 
-# Basics of Regular expression
+Basics of Regular expression
 
 **Example : ** Regular expression for an email address :
 ^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$
