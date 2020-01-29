@@ -6,9 +6,9 @@ tags: [tech-blog,projects]
 image: ppp-landing.jpg
 
 ---
-NETBEANS OJDBC CONNECTION | ORACLE |
+**NETBEANS OJDBC CONNECTION ORACLE**
 
-Video []
+
 
 
 Source code []
