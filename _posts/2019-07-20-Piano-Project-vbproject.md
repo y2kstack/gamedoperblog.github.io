@@ -8,7 +8,6 @@ image: amigo.png
 ---
 
 
-# Welcome to Gamedoper!
 
 
 
