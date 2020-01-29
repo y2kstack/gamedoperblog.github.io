@@ -7,7 +7,6 @@ image: new_post.png
 
 ---
 
-Welcome to Gamedoper!
 ===================
 
 
