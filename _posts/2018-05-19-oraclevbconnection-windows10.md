@@ -7,8 +7,7 @@ image: adodc1.png
 type: video
 ---
 
-**ERROR TEST CONNECTION FAILED BECAUSE OF AN ERROR IN INITIALIZING PROVIDER.
-[Microsoft][ODBC driver for Oracle Connected Not Open]
+**ERROR TEST CONNECTION FAILED BECAUSE OF AN ERROR IN INITIALIZING PROVIDER. [Microsoft][ODBC driver for Oracle Connected Not Open]**
 
 
 
