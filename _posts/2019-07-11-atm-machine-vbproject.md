@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ATM MACHINE MINI PROJECT
 date: 2019-07-11 
