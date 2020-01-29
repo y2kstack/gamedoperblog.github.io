@@ -6,10 +6,8 @@ tags: [Mafia2 Language,GameerrorFix, Gamefix]
 image: 1.jpg
 type: video
 ---
-Mafia 2 ( russia to english language ) easy steps
 
-
-Mafia 2 ( Russia to English language ) easy step
+**Mafia 2 ( Russia to English language ) easy step**
 
 watch the video !
 
